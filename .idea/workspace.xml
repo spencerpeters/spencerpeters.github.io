@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e645e5fa-de15-4eb6-b6e9-e6fce3ddf195" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/haskell-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/haskell-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/images/haskell-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bronx-updated.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/olddefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/archive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/bronx-updated.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/olddefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/posts/2015-08-12-spqr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/posts/2015-10-07-rosa-rosa-rosam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/posts/2015-11-28-carpe-diem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/posts/2015-12-07-tu-quoque.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/posts/2017-08-31-new-post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footnotes/Footnotes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/Setup.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/about.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/contact.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/posts/2015-08-12-spqr.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/posts/2015-10-07-rosa-rosa-rosam.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/posts/2015-11-28-carpe-diem.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/posts/2015-12-07-tu-quoque.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/site.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/templates/archive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/templates/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/templates/post-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/example/templates/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/templates/atom-item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/templates/atom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/templates/rss-item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/data/templates/rss.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/hakyll.cabal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Data/List/Extended.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Data/Yaml/Extended.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Check.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Commands.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Compiler.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Compiler/Internal.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Compiler/Require.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Configuration.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Dependencies.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/File.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Identifier.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Identifier/Pattern.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Item.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Item/SomeItem.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Logger.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Metadata.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Provider.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Provider/Internal.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Provider/Metadata.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Provider/MetadataCache.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Routes.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Rules.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Rules/Internal.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Runtime.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Store.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/UnixFilter.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Util/File.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Util/Parser.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Util/String.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Core/Writable.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Main.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Preview/Poll.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Preview/Server.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/CompressCss.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Feed.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Html.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Html/RelativizeUrls.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Paginate.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Pandoc.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Pandoc/Biblio.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Pandoc/Binary.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Pandoc/FileType.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Redirect.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Tags.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template/Context.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template/Internal.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template/Internal/Element.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template/Internal/Trim.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/lib/Hakyll/Web/Template/List.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/src/Init.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Dependencies/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Identifier/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Provider/Metadata/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Provider/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Routes/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Rules/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Runtime/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Store/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/UnixFilter/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Core/Util/String/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/CompressCss/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/Html/RelativizeUrls/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/Html/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/Pandoc/FileType/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/Template/Context/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/Hakyll/Web/Template/Tests.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/TestSuite.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/TestSuite/Util.hs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/example.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/example.md.metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/just-meta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/just-meta.html.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/partial-helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/partial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/partial.html.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/posts/2010-08-26-birthday.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/russian.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/strip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/strip.html.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hakyll-4.9.8.0/tests/data/template.html.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/2015-08-12-spqr.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/2015-10-07-rosa-rosa-rosam.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/2015-11-28-carpe-diem.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/2015-12-07-tu-quoque.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/2017-08-31-new-post.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/archive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/post-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website.cabal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/website.hs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.stack-work/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website.cabal" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website.cabal">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stack.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="website.hs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website.hs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog.cabal" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spencerpeters.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spencerpeters.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Haskell Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/post.html" />
+    <entry file="file://$PROJECT_DIR$/templates/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website.cabal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
