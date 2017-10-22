@@ -15,13 +15,7 @@ git fetch --all
 git checkout -b master --track origin/master
 
 # Overwrite existing files with new files
-rsync -a --filter='P docs/'      \
-         --filter='P _cache/'     \
-         --filter='P .git/'       \
-         --filter='P .gitignore'  \
-         --filter='P .stack-work' \
-         --delete-excluded        \
-         docs/ .
+cp -a docs/. .
 
 # Commit
 git add -A
