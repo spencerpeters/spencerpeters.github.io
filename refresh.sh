@@ -1,4 +1,4 @@
 #!/bin/bash
 
-stack exec site build
-stack exec site watch
+stack exec website build
+stack exec website watch
