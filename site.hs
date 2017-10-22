@@ -18,8 +18,11 @@ main = hakyllWith config $ do
     let product = [(++ "images/*"), (++ "posts/*/images/*")] <*> ["", "zurich/"] in
         match (unionPatterns product) $ do
             route   idRoute
-            let args = ["-", "-resize", "200000@", "-"] in
-                compile $ getResourceLBS >>= withItemBody (unixFilterLBS "convert" args)
+            compile copyFileCompiler
+            --removed this since rebuilds were taking too long.
+            -- Might need to manually resize images later.
+            --let args = ["-", "-resize", "200000@", "-"] in
+            --    compile $ getResourceLBS >>= withItemBody (unixFilterLBS "convert" args)
                 -- resize to 200,000 px
 
     match "css/*" $ do
