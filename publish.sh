@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Temporarily store uncommited changes
-git stash
+# git stash
 
 # Verify correct branch
 git checkout develop
@@ -27,4 +27,4 @@ git push origin master:master
 # Restoration
 git checkout develop
 git branch -D master
-git stash pop
+# git stash pop
