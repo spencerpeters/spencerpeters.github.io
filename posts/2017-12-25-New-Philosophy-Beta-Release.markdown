@@ -73,7 +73,7 @@ captures the spirit of a life lived as a Leroy's Blessing.
 
 What earns you respect instead is confidence (nearly the opposite of try-hard niceness) and winning (should be the same as try-hard collaboration but is not, especially in pickup). I had a very stark illustration of this reality in pickup basketball. When I tried to be a good team player, avoid fouling and aggression, and listen to everyone's (mostly wrong) advice, I got more patronizing advice and got ragged on every time I made a mistake. My optimism and mental toughness was barely sufficient to stop myself from degenerating into vicious cycles of hesitation and more mistakes.
 
-On the other hand, when I decided to focus just on the game in front of me and the satisfaction of blocking a shot or scoring a basket, ignored advice, brushed off foul calls, and took the ball to the basket agressively, I got points, respect, high fives, and lots of people coming up after the game to double-check my name. The fact that this came as a surprise to me probably belies much of my present woes.
+On the other hand, when I decided to focus just on the game in front of me and the satisfaction of blocking a shot or scoring a basket, ignored advice, brushed off foul calls, and took the ball to the basket aggressively, I got points, respect, high fives, and lots of people coming up after the game to double-check my name. The fact that this came as a surprise to me probably belies much of my present woes.
 
 So, I should compete more and unabashedly enjoy winning! The pursuit of being world class per Metric Eternalism is a good narrative for this.
 
@@ -88,11 +88,13 @@ This is a very different approach from becoming extremely facile with parametriz
 
 Corollary 1 comes directly from realizing that specialist learning exists and is very powerful. It's not necessarily that specialists are cleverer or smarter than you are, they're just better trained in their discipline. Don't feel the need to keep bashing your ego against their problems.
 
-11. (Generalism Corollary 1, my synthesis): If you are a generalist, don't try to beat the specialists on their own turf. And if you can't beat them, join them--enlist specialist friends to solve your specialist subproblems.
+11.
+(Generalism Corollary 1, my synthesis): If you are a generalist, don't try to beat the specialists on their own turf. And if you can't beat them, join them--enlist specialist friends to solve your specialist subproblems.
 
 Corollary 2 describes a particular way of combining the two approaches.
 
-12. (Generalism Corollary 2, my synthesis): System 1 Foundations. Some models and skills are important enough (i.e. basic algebra) that their foundations should be learned with System 1. This gives you the godlike specialist facility, exactly when it is necessary. I've noticed an incredible System 1 facility and breadth in some of my professors and haven't been able to explain how they do it--now, it seems obvious. I'm only exposed to the basics, and these professors have developed System 1 facility in the basics of a lot of different things. This is really helpful for accurate order-of-magnitude calculations and plausibility checks in complicated situations.
+12.
+(Generalism Corollary 2, my synthesis): System 1 Foundations. Some models and skills are important enough (i.e. basic algebra) that their foundations should be learned with System 1. This gives you the godlike specialist facility, exactly when it is necessary. I've noticed an incredible System 1 facility and breadth in some of my professors and haven't been able to explain how they do it--now, it seems obvious. I'm only exposed to the basics, and these professors have developed System 1 facility in the basics of a lot of different things. This is really helpful for accurate order-of-magnitude calculations and plausibility checks in complicated situations.
 
 With Generalism and its corollaries, I felt that I'd reached a thrilling new philosophical high point for the first time in my present liminal passage. And I could see empirical grounding for each of the ideas I'd found. I was learning how to apply them and exulting in my renewed excitement about opportunity, zeal for competition, and pride in my natural generalism. And yet, in contrast to the products of my usual axiomatic reasoning, it was hard to see what connected the ideas. Indeed, there is no set of axioms rooting my new philosophy. Yet, the twist binding the ideas is obvious in hindsight.
 
