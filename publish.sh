@@ -4,6 +4,7 @@
 # git stash
 
 # Verify correct branch
+git branch -D master
 git checkout develop
 
 # Build new files
